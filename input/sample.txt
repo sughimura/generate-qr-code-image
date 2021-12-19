@@ -1,0 +1,2 @@
+sample_string1
+sample_string2
